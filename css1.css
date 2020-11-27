@@ -37,15 +37,15 @@ body, html {
   text-align: center;
 }
 .section1 {
-  background: url(img/handpick-jpg.jpg);
+  background: url(img/handpick.jpg);
   min-height: 100%;
 }
 .section2 {
-  background: url(img/withering-jpg.jpg);
+   background: url(img/withering-jpg.jpg);
   min-height: 100%;
 }
 .section3 {
-  background: url(img/Green-Tea-Firing.jpg);
+   background: url(img/Green-Tea-Firing.jpg);
   min-height: 100%;
 }
 .section4 {
@@ -53,15 +53,15 @@ body, html {
   min-height: 100%;
 }
 .section5{
-  background: url(img/firing.jpg);
+  background: url(img/firing.jpg)
   min-height: 100%;
 }
 .section6{
-  background: url(img/sorting-dried-tea-leaves-taiwan-footage-084715965_prevstill.webp);
+   background: url(img/sorting-dried-tea-leaves-taiwan-footage-084715965_prevstill.webp);
   min-height: 100%;
 }
 .section7{
-  background: url(img/green-tea-cleans-more-than-just-your-body.w1456.jpg);
+ background: url(img/green-tea-cleans-more-than-just-your-body.w1456.jpg);
   min-height: 100%;
 }
 .section1, .section2, .section3, .section4 ,.section5,.section6,.section7{
