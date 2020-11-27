@@ -37,31 +37,31 @@ body, html {
   text-align: center;
 }
 .section1 {
-  background: url(/Green-Tea-Firing.jpg);
+  background: url(handpick.jpg);
   min-height: 100%;
 }
 .section2 {
-  background: url(/img/withering-jpg.jpg);
+  background: url(withering-jpg.jpg);
   min-height: 100%;
 }
 .section3 {
-  background: url(/img/Green-Tea-Firing.jpg);
+  background: url(Green-Tea-Firing.jpg);
   min-height: 100%;
 }
 .section4 {
-  background: url(/img/tea-oxidation-fermentation_0fd81fab-80de-4466-b4a9-cccc2bf60d5d_600x.jpg);
+  background: url(tea-oxidation-fermentation_0fd81fab-80de-4466-b4a9-cccc2bf60d5d_600x.jpg);
   min-height: 100%;
 }
 .section5{
-  background: url(/img/firing.jpg);
+  background: url(firing.jpg);
   min-height: 100%;
 }
 .section6{
-  background: url(/img/sorting-dried-tea-leaves-taiwan-footage-084715965_prevstill.webp);
+  background: url(sorting-dried-tea-leaves-taiwan-footage-084715965_prevstill.webp);
   min-height: 100%;
 }
 .section7{
-  background: url(/img/green-tea-cleans-more-than-just-your-body.w1456.jpg);
+  background: url(green-tea-cleans-more-than-just-your-body.w1456.jpg);
   min-height: 100%;
 }
 .section1, .section2, .section3, .section4 ,.section5,.section6,.section7{
