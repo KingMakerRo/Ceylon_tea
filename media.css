@@ -165,7 +165,7 @@
           
         }
         .longer h4{
-            font-size: 7rem;
+            font-size: 3rem;
         }
         .londer{
             font-size: 1rem;
@@ -178,7 +178,7 @@
           font-size: 3rem;
         }
         .loader h4{
-            font-size: 5rem;
+            font-size: 2rem;
 
         }
         .loader p{
@@ -194,7 +194,7 @@
           font-size: 2.5rem;
         }
         .loader h4{
-            font-size: 2.5rem;
+            font-size: 2rem;
         }
         .loader p{
             font-size: .75rem;
@@ -246,7 +246,7 @@
     }
     @media(max-width:499px){
         .longer p{
-            font-size: 4rem;
+            font-size: 1rem;
         }
     }
       @media (max-width: 767px) {
