@@ -29,7 +29,7 @@
  }
 
  body{
-    background: url(img/handpick.jpg);
+    background: url(img/handpick.jpg)no-repeat;
     background-size: cover;
     
 }
