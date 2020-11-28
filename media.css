@@ -165,7 +165,7 @@
           
         }
         .longer h4{
-            font-size: 3rem;
+            font-size: 1rem;
         }
         .londer{
             font-size: 1rem;
@@ -178,7 +178,7 @@
           font-size: 3rem;
         }
         .loader h4{
-            font-size: 2rem;
+            font-size: 1rem;
 
         }
         .loader p{
@@ -194,7 +194,7 @@
           font-size: 2.5rem;
         }
         .loader h4{
-            font-size: 2rem;
+            font-size: 1rem;
         }
         .loader p{
             font-size: .75rem;
@@ -326,8 +326,11 @@
           left: 50px;
           right: inherit;
         }
-        .loader h4 h5{
+        .loader h5{
           font-size: 2rem;
+        }
+          ,loader h4{
+          font-size:2rem;
         }
       }
 
@@ -360,8 +363,11 @@
 
     }
     @media(min-width:500px){
-      .loader h4 h5{
+      .loader h5{
         font-size: 2rem;
+      }
+       .loader h4{
+        font-size:2rem
       }
       
     }
