@@ -158,7 +158,6 @@ ul {
   height: 20rem;
 }
 
-
 .heading-wrap {
   color: #fff;
   padding: 3rem 0;
@@ -334,7 +333,7 @@ ul {
 }
  /*footer*/
 .footer{
-  background-color:forestgreen;
+  background-color:grey;
 }
 .footer__container{
   row-gap: 2rem;
