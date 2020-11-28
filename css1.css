@@ -25,7 +25,7 @@
  --encode-:'Encode Sans', sans-serif;
  }
  h1{
-   font-size: 1.5;
+   font-size: 1.5em;
    font-family: var(--cinaz-);
  }
 body, html {
